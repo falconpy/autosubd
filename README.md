@@ -4,6 +4,7 @@ Auto subtitles downloader with OpenSubtitles
 Settings file set the default directory for video files seach and language settings.
 
 In other hand, it can be introduced the parameters location or file and language. 
+
 autosubd.py [location of files/video file] [language]
 
 Examples:
